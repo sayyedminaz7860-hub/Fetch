@@ -11,3 +11,10 @@ h1 {
 p {
     color: #555;
 }
+
+button {
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+}
